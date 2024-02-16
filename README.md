@@ -45,6 +45,7 @@ The following visualizations are included in this project:
     - `3_EDA.ipynb`: Jupyter Notebook containing containing the exploratory data analysis and code for generating the visualizations that were used in the slide deck for presentation.
     - `4_Modeling.ipynb`: Jupyter Notebook containing the code for constructing a recommender system using the movie review datasets that were prepared during data cleaning
 - Data
+    - `movies.csv`: This dataset contains the movies that were included in the MovieLens 25M dataset. It can be used to make sure the correct data has been downloaded.
     - `Large-Data`: It is recommended to create a folder named Large-Data that will be ignored by GitHub. Save all the source data in this folder after creation.
 - Slides
     - `Movie Recommender System.pdf`: Presentation slides to accompany the code including analysis
